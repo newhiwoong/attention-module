@@ -4,6 +4,7 @@ Official PyTorch code for "[BAM: Bottleneck Attention Module (BMVC2018)](http://
 ### Updates & Notices
 - 2018-10-08: ~~Currently, only CBAM test code is validated. **There may be minor errors in the training code**. Will be fixed in a few days.~~
 - 2018-10-11: Training code validated. RESNET50+BAM pretrained weight added.
+- 2019-02-28: 
 
 ### Requirement
 
